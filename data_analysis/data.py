@@ -42,6 +42,8 @@ def hourly_data_by_station(raw_data):
 
     return DFdict
 
+def compute_distance():
+    pass
 
 
 
