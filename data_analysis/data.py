@@ -1,4 +1,5 @@
 import pandas as pd
+import math
 import datetime
 
 
@@ -42,8 +43,27 @@ def hourly_data_by_station(raw_data):
 
     return DFdict
 
-def compute_distance():
-    pass
+def compute_distance(lat_1, lng_1, lat_2, lng_2):
+    '''
+    Function calculates the distance between two points, specified through their coordinates
+    according to the haversine formula
+
+    Input:
+        lat_1, lng_1, lat_2, lng_2 (float): coordinates of the two points between which the
+                                            distance shall be calculated (in degrees)
+    Output:
+        distance (float): distance between the two points in kilometers
+    '''
+    # convert degrees to radians
+    lng_1, lat_1, lng_2, lat_2 = map(math.radians, [lng_1, lat_1, lng_2, lat_2])
+    # calculate difference between longitude and latitude coordinates
+    dist_lat = lat_2 - lat_1
+    dist_lng = lng_2 - lng_1
+    # apply haversine formula
+    res = (math.sin(dist_lat / 2) ** 2 + math.cos(lat_1) * math.cos(lat_2) * math.sin(dist_lng / 2) ** 2)
+    distance = 6373.0 * (2 * math.atan2(math.sqrt(res), math.sqrt(1 - res)))
+
+    return distance
 
 
 
