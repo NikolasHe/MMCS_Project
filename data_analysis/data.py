@@ -41,6 +41,18 @@ def hourly_data_by_station(raw_data):
 
         DFdict[station] = df_comp
 
+    # add new column to each dataframe that contains net flow value
+
+    for station in raw_data.start_station_name.unique():
+        single_df = DFdict[station]
+        single_df['net_flow_value'] = ''
+        for i in range(len(single_df)):
+            if i == 0:
+                single_df.iloc[i, 3] = single_df.iloc[i, 2] - single_df[i, 1]
+            else:
+                single_df.iloc[i, 3] = single_df.iloc[i-1, 3] + single_df.iloc[i, 2] - single_df[i, 1]
+        DFdict[station] = single_df
+
     return DFdict
 
 def compute_distance(lat_1, lng_1, lat_2, lng_2):
