@@ -44,7 +44,7 @@ def hourly_data_by_station(raw_data):
     # add new column to each dataframe that contains net flow value
 
     for station in raw_data.start_station_name.unique():
-        single_df = DFdict[station]
+        single_df = DFdict[station].fillna(0)
         single_df['net_flow_value'] = ''
         for i in range(len(single_df)):
             if i == 0:
