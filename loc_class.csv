@@ -1,0 +1,84 @@
+,station_name,latitude,longitude,classification_1,classification_2,classification_3
+0,EICC,55.94607055533778,-3.2103963310007657,demand,demand,leveled
+1,Haymarket Station,55.94556945067266,-3.2181846832795604,demand,demand,supply
+2,Abbeyhill,55.95524788917224,-3.1722162800950704,demand,leveled,supply
+3,Dynamic Earth,55.95108946523637,-3.17572460948655,leveled,supply,supply
+4,Meadow Place,55.940237631689435,-3.194640214184801,demand,demand,demand
+5,Boroughmuir,55.94007146917616,-3.2153358406880836,demand,leveled,supply
+6,Scotland Street,55.9603797205459,-3.1954703369027584,leveled,supply,supply
+7,Leith Walk,55.965039805077325,-3.1766864147848537,demand,supply,supply
+8,South Trinity Road,55.97132539148154,-3.2079635674242586,leveled,demand,supply
+9,Duke Street,55.96901164826488,-3.16739470303429,supply,supply,supply
+10,Haymarket Terrace,55.946063966641006,-3.2230240243595745,demand,demand,supply
+11,Leith Walk North,55.967918070442884,-3.1735862970647304,supply,demand,supply
+12,Bruntsfield Links,55.9371232399911,-3.206431879393449,demand,demand,demand
+13,Dundee Terrace,55.93970989541296,-3.2205889336679547,demand,demand,supply
+14,Tollcross,55.944248052468346,-3.2031045991104747,leveled,leveled,demand
+15,Gorgie Road,55.9387414422504,-3.2299092549009023,demand,supply,supply
+16,Inverleith Row,55.96411787988959,-3.202094747416368,demand,supply,leveled
+17,Thirlestane Road,55.93532370964813,-3.198763443819871,demand,demand,demand
+18,Victoria Quay,55.97761715254634,-3.174126319457628,leveled,supply,supply
+19,Ellersly Road,55.945045875212095,-3.250881447188249,demand,demand,supply
+20,Brunswick Place,55.960851741063955,-3.180985762469163,demand,demand,supply
+21,Causewayside,55.93650603148236,-3.1801663476151134,demand,demand,supply
+22,Dalry Road Lidl,55.941791296881284,-3.2224153095965,leveled,demand,supply
+23,Fountainbridge,55.94335692764551,-3.2092475016246453,leveled,demand,supply
+24,Marchmont Crescent,55.9364319181482,-3.1941500443142563,demand,demand,leveled
+25,Edinburgh Royal Infirmary,55.9212201226133,-3.1390755550312406,supply,supply,demand
+26,Portobello - Kings Road,55.957915406923476,-3.118332042090288,leveled,supply,supply
+27,St Andrew Square,55.95490573198223,-3.192443756949956,leveled,demand,demand
+28,Dundas Street,55.9607624081837,-3.201278014771333,leveled,demand,supply
+29,Joppa,55.94894930668582,-3.094727261654725,demand,supply,supply
+30,Cramond Foreshore,55.98003076740317,-3.3006417888325363,leveled,supply,supply
+31,Ocean Terminal,55.98128601479298,-3.176351263805259,leveled,supply,supply
+32,Lauriston Place,55.94477165233547,-3.197265856419562,leveled,demand,demand
+33,Colinton Road,55.93341635916104,-3.21239711224257,demand,leveled,demand
+34,Hawes Pier,55.990529521430766,-3.3855966605769083,leveled,leveled,leveled
+35,Meggetland,55.92758664038103,-3.2336710530441906,leveled,supply,leveled
+36,Comely Bank Road,55.95941012836135,-3.2156613606136943,supply,supply,supply
+37,Drumsheugh Place,55.95159412232485,-3.2123542850940225,leveled,demand,leveled
+38,East London Street,55.95995414501485,-3.1871977585476543,demand,leveled,leveled
+39,Warrender Park Road,55.93836921723555,-3.1980326885466184,demand,demand,leveled
+40,Hopetoun Road,55.990182146207864,-3.4046039242787174,demand,leveled,leveled
+41,Stockbridge,55.958565585897226,-3.2080701822277438,supply,supply,supply
+42,Musselburgh Lidl,55.94388031687606,-3.0667539162178628,leveled,leveled,supply
+43,McDonald Road,55.9640310527501,-3.1851753729504253,demand,demand,supply
+44,Orchard Brae House,55.95508276879095,-3.2236342639564555,leveled,demand,leveled
+45,Musselburgh Brunton Hall,55.94396074176487,-3.058306836702485,leveled,leveled,leveled
+46,Queen Margaret University,55.931980482636575,-3.0731046336811687,leveled,demand,leveled
+47,Waitrose Comely Bank,55.95953624971772,-3.223434402338853,supply,leveled,leveled
+48,Hillside Crescent,55.95787194536338,-3.175888370919665,demand,demand,supply
+49,Grassmarket,55.947097278583385,-3.1972457326126005,demand,demand,supply
+50,Heriot Watt - Student Accommodation,55.908413444598246,-3.3287835258168874,leveled,demand,supply
+51,Milton Road - Edinburgh College,55.94406627599551,-3.0985614794416128,demand,leveled,supply
+52,Edinburgh Park Station,55.92738267693901,-3.307442444578868,demand,leveled,leveled
+53,Dean Street,55.95727801274065,-3.2142853873890544,leveled,leveled,leveled
+54,Dalmeny Station,55.986761326113175,-3.382426853781425,supply,demand,leveled
+55,Heriot Watt - Edinburgh Business School,55.9088228790413,-3.320113285176247,leveled,demand,supply
+56,Belford Road,55.95197357717703,-3.2261248046640962,leveled,leveled,leveled
+57,Balgreen Road,55.938941745489494,-3.251110776059022,leveled,supply,supply
+58,Murrayfield,55.94479128084842,-3.243673010460725,leveled,leveled,leveled
+59,Craigleith Road,55.95657629337518,-3.237939788691392,leveled,demand,leveled
+60,Murrayfield Tram,55.94191081116495,-3.2378003138226177,leveled,demand,supply
+61,Gamekeeper's Road,55.96944274609889,-3.3072587984723745,leveled,demand,leveled
+62,Sighthill - Edinburgh College,55.926684277487574,-3.2894811171216665,leveled,leveled,leveled
+63,Forth Bridge Visitors Centre,55.987743170866025,-3.4037524459994306,leveled,demand,leveled
+64,The Loan,55.989899682326545,-3.397772901929727,leveled,leveled,leveled
+65,Port Edgar Marina,55.992957267668345,-3.4071562055591187,leveled,demand,demand
+66,Edinburgh Park Central,55.931168715771065,-3.3144142978056834,leveled,leveled,leveled
+67,Ingliston Park & Ride,55.9387919459937,-3.3555562169325133,leveled,leveled,leveled
+68,Borrowman Square,55.98260596953824,-3.381454898058536,leveled,leveled,leveled
+69,Tesco Ferrymuir,55.983766187891035,-3.4013518016021744,leveled,demand,leveled
+70,Picardy Place,55.95653524179326,-3.1862476120746805,demand,demand,demand
+71,cluster 0,55.93888636988663,-3.18387999833925,supply,supply,demand
+72,cluster 1,55.9627409756888,-3.233025742809616,demand,supply,supply
+73,cluster 2,55.95012624888915,-3.2047532825590226,supply,demand,demand
+74,cluster 3,55.92790175288695,-3.211528747074048,demand,demand,demand
+75,cluster 4,55.941892532698475,-3.270405246607652,supply,leveled,leveled
+76,cluster 5,55.92383264264042,-3.1748982932084573,leveled,demand,supply
+77,cluster 6,55.95048723214198,-3.181846564991922,supply,demand,demand
+78,cluster 7,55.94503698668898,-3.2331724337542487,demand,demand,supply
+79,cluster 8,55.96343120863685,-3.1959919730938964,leveled,demand,demand
+80,cluster 9,55.950425826794486,-3.189277958172437,leveled,demand,supply
+81,cluster 10,55.93954044457394,-3.172835210584026,supply,demand,demand
+82,cluster 11,55.94483995162956,-3.1862143513547116,demand,demand,leveled
