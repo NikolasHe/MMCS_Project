@@ -1,0 +1,123 @@
+,station_name,Ht_new,TDt_new
+0,Wester Coates Terrace,1.0,1.0
+1,Edinburgh Zoo,0.0,0.0
+2,Meadow Place,0.0,2.0
+3,Meadows East,-1.0,3.0
+4,St Andrews House,0.0,0.0
+5,St Andrew Square,-3.0,0.0
+6,Western General Hospital,2.0,2.0
+7,Surgeons Hall,-3.0,0.0
+8,Royal Commonwealth Pool,-2.0,0.0
+9,Hillside Crescent,3.0,5.0
+10,Craigleith Road,1.0,1.0
+11,Dalry Road Lidl,2.0,2.0
+12,Dundas Street,2.0,4.0
+13,South Trinity Road,2.0,5.0
+14,Brunswick Place,0.0,3.0
+15,Warrender Park Road,0.0,0.0
+16,Kings Buildings - Murchison House,2.0,2.0
+17,Dundee Terrace,-2.0,4.0
+18,Leith Walk,-3.0,0.0
+19,Holyrood Road,1.0,2.0
+20,Portobello - Kings Road,0.0,5.0
+21,Charlotte Square,-3.0,0.0
+22,Victoria Quay,8.0,10.0
+23,Thirlestane Road,0.0,0.0
+24,Stockbridge,3.0,4.0
+25,Lothian Road,1.0,3.0
+26,Morningside Road,1.0,4.0
+27,Bruntsfield Links,0.0,0.0
+28,Causewayside,-2.0,0.0
+29,McDonald Road,2.0,4.0
+30,Hunter Square,0.0,0.0
+31,Castle Street,1.0,2.0
+32,Roseburn Street,1.0,1.0
+33,Marchmont Crescent,0.0,0.0
+34,Ocean Terminal,-1.0,0.0
+35,Bristo Square,2.0,2.0
+36,Castle Terrace,0.0,0.0
+37,East London Street,1.0,1.0
+38,Cramond Foreshore,0.0,0.0
+39,George Square,0.0,5.0
+40,Comely Bank Road,4.0,4.0
+41,Balgreen Road,2.0,2.0
+42,Scotland Street,0.0,0.0
+43,Tollcross,-3.0,0.0
+44,Waverley Bridge,1.0,3.0
+45,Kings Building 2,4.0,8.0
+46,Inverleith Row,4.0,6.0
+47,Corstorphine Road,0.0,0.0
+48,Grassmarket,0.0,0.0
+49,Waverley Court,2.0,2.0
+50,Canonmills,2.0,3.0
+51,Logie Green Road,1.0,1.0
+52,Colinton Road,0.0,0.0
+53,West Crosscauseway,-2.0,4.0
+54,Haymarket Terrace,1.0,1.0
+55,Haymarket Station,1.0,1.0
+56,Fountainbridge,-1.0,2.0
+57,Gladstone Terrace,0.0,0.0
+58,Waverley Station,5.0,5.0
+59,Meggetland,1.0,3.0
+60,Kings Buildings 1,4.0,4.0
+61,Murrayfield,0.0,0.0
+62,EICC,-1.0,1.0
+63,Edinburgh Royal Infirmary,4.0,4.0
+64,Simon Square,3.0,3.0
+65,Waitrose Comely Bank,8.0,8.0
+66,Crichton Street,0.0,2.0
+67,Orchard Brae House,0.0,0.0
+68,Lauriston Place,-6.0,0.0
+69,City Chambers,-3.0,0.0
+70,Ellersly Road,1.0,1.0
+71,Belford Road,2.0,2.0
+72,Pleasance Courtyard,1.0,1.0
+73,Kings Building 3,0.0,1.0
+74,Pollock Halls,0.0,2.0
+75,Heriot Watt - Edinburgh Business School,5.0,5.0
+76,Dean Street,0.0,0.0
+77,Murrayfield Tram,2.0,2.0
+78,Queen Margaret University,6.0,6.0
+79,Milton Road - Edinburgh College,1.0,1.0
+80,Sighthill - Edinburgh College,1.0,1.0
+81,Joppa,0.0,1.0
+82,Chambers Street,1.0,1.0
+83,Eden Locke - Aparthotel (RESIDENTS ONLY),0.0,0.0
+84,Gamekeeper's Road,2.0,2.0
+85,Gorgie Road,2.0,2.0
+86,Royal Edinburgh Hospital,2.0,2.0
+87,Abbeyhill,4.0,4.0
+88,Dynamic Earth,3.0,5.0
+89,Heriot Watt - Student Accommodation,3.0,3.0
+90,Drumsheugh Place,-1.0,1.0
+91,Duke Street,3.0,6.0
+92,Boroughmuir,0.0,1.0
+93,Edinburgh Park Station,1.0,1.0
+94,Edinburgh Park Central,0.0,0.0
+95,The Loan,1.0,1.0
+96,Borrowman Square,4.0,4.0
+97,Dalmeny Station,0.0,0.0
+98,Hopetoun Road,0.0,0.0
+99,Forth Bridge Visitors Centre,2.0,2.0
+100,Hawes Pier,7.0,7.0
+101,Scotstoun House,3.0,3.0
+102,Ingliston Park & Ride,1.0,1.0
+103,Tesco Ferrymuir,0.0,0.0
+104,Port Edgar Marina,2.0,2.0
+105,Leith Walk North,0.0,8.0
+106,Musselburgh Lidl,4.0,4.0
+107,Musselburgh Brunton Hall,1.0,1.0
+108,Picardy Place,-7.0,1.0
+109,cluster 0,10.0,15.0
+110,cluster 1,3.0,4.0
+111,cluster 2,2.0,2.0
+112,cluster 3,0.0,16.0
+113,cluster 4,0.0,0.0
+114,cluster 5,3.0,6.0
+115,cluster 6,-1.0,5.0
+116,cluster 7,2.0,2.0
+117,cluster 8,4.0,5.0
+118,cluster 9,-2.0,2.0
+119,cluster 10,4.0,9.0
+120,cluster 11,-1.0,3.0
+121,,,
